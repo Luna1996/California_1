@@ -11,6 +11,7 @@
     ![](img/ca2.png)
   * 取车
     ![](img/c1.png)
+    ![](img/ca5.png)
   * 酒店  
     ![](img/hotel1.png)
     ![](img/ca3.png)
@@ -34,7 +35,8 @@
     ![](img/carmel_beach.jpg)
     ![](img/carmel_plaza.jpg)
   * Stay night at Monterey.  
-  https://zh.airbnb.com/rooms/5860442?adults=2&check_in=2019-11-15&check_out=2019-11-16&source_impression_id=p3_1572745739_7%2BAkdawJw8Ravnxt
+    https://zh.airbnb.com/z/q/790425548?bId=161355748&other_person_id=22064531  
+    ![](img/ca6.png)
 * **周六 2019/11/16**  
   第二天行程不紧张，早上可以晚点出发， 也可以在蒙特雷多逛逛。这天基本都是拍照景点。晚上选择住在月石海滩是因为方便参观Hearst Castle。边上有个Elephant Seal Viewing Point，看海象的沙滩，不过这个季节可能看不到。第二天纯赶路差不多3~4小时。
   第二日早餐/午餐在蒙特雷，晚餐在月石滩。
@@ -49,6 +51,8 @@
   * Hearst Castle
     ![](img/hearst_castle.jpg)
   * Stay night at Moonstone Beach
+    ![](img/ca7.png)
+    ![](img/hotel2.png)
 * **周日 2019/11/17**  
   第三日路程较远，经过丹麦风情镇Solvang，西班牙风情镇Santa Barbara，马里布，最后回家。穆赫兰道彩蛋。第三日纯车程应该超过5小时。
   第三天这几个小镇都有很多特色美食，可以走走吃吃。
