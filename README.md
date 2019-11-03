@@ -64,7 +64,8 @@ https://drive.google.com/open?id=1pft3kStzVFOzqYzAeKykaU-WVmLUynse&usp=sharing
     ![](img/santa_barbara.jpg)
   * Malibu, El Matador State Beach
     ![](img/malibu.jpg)
-  * 14 Northgrove
+  * 14 Northgrove  
+    ![](img/hotel3.png)
 * **Mon. 2019/11/18**
   * **W** leave at **14:15**, **DL 2089**.
     ![](img/f3.png)
