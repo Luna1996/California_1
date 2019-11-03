@@ -1,6 +1,8 @@
 # 一号公路
 **游客:** **L**y, **W**yf  
 **时间:** 2019/11/15-2019/11/17
+## 地图
+https://drive.google.com/open?id=1pft3kStzVFOzqYzAeKykaU-WVmLUynse&usp=sharing
 ## 行程安排
 * **周四 2019/11/14**
   * **L** 乘 **AS2790** 于 **22:43** 飞抵 SFO
