@@ -52,7 +52,7 @@ https://drive.google.com/open?id=1pft3kStzVFOzqYzAeKykaU-WVmLUynse&usp=sharing
     ![](img/moonstone_beach.jpg)
   * Hearst Castle
     ![](img/hearst_castle.jpg)
-  * Stay night at Moonstone Beach
+  * Stay night at Moonstone Beach  
     ![](img/ca7.png)
     ![](img/hotel2.png)
 * **周日 2019/11/17**  
